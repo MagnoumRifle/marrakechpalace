@@ -89,6 +89,14 @@ export function Header() {
               {t.nav.contact}
             </Link>
           </nav>
+          <Link
+            href="/contact"
+            className="button"
+            onClick={close}
+            style={{ width: '100%', justifyContent: 'center', marginTop: '6px' }}
+          >
+            {t.nav.cta} <ArrowUpRight size={16} />
+          </Link>
           <a className="text-link" href={whatsappLink()} target="_blank" rel="noopener noreferrer">
             {t.nav.whatsapp} <ArrowUpRight size={16} />
           </a>
