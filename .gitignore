@@ -8,8 +8,9 @@ out/
 test-results/
 playwright-report/
 .sites-runtime/
-tmp/
-images/
-video/
-concept/
-research/
+/tmp/
+/images/
+/video/
+/concept/
+/research/
+!public/images/
