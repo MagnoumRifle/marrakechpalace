@@ -15,8 +15,7 @@ export function Brand({
   height,
 }: BrandProps) {
   const customStyle = height ? { height: `${height}px` } : undefined;
-  // Clean URL-safe asset matching images/Logos/Plan de travail 1 copie 5@4x.png
-  const logoSrc = '/images/logo/marrakech-palace-logo.png';
+  const logoSrc = '/marrakech-palace-logo.png';
 
   return (
     <Link
@@ -30,6 +29,14 @@ export function Brand({
         alt="Marrakech Palace"
         className="brand-logo"
         style={customStyle}
+        onError={(e) => {
+          const img = e.currentTarget;
+          if (img.src.endsWith('/marrakech-palace-logo.png')) {
+            img.src = '/images/logo/marrakech-palace-logo.png';
+          } else if (img.src.includes('/images/logo/')) {
+            img.src = '/logo.png';
+          }
+        }}
       />
     </Link>
   );
