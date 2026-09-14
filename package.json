@@ -1,0 +1,32 @@
+{
+  "name": "marrakech-palace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "test:smoke": "node scripts/check-site.mjs"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "@fontsource/cormorant-garamond": "5.3.0",
+    "@fontsource/manrope": "5.3.0",
+    "lucide-react": "1.45.0",
+    "next": "16.3.5",
+    "page-flip": "^2.0.7",
+    "react": "19.3.0",
+    "react-3d-flipbook": "^1.1.12",
+    "react-dom": "19.3.0",
+    "three": "^0.186.0"
+  },
+  "devDependencies": {
+    "@types/node": "26.5.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "typescript": "7.0.2"
+  }
+}

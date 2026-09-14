@@ -1,0 +1,282 @@
+[
+  {
+    "id": "plans-1et",
+    "category": "plans",
+    "original": "1ET.png",
+    "src": "/media/plans-1et.png",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "id": "plans-rdc1",
+    "category": "plans",
+    "original": "RDC1.png",
+    "src": "/media/plans-rdc1.png",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "id": "plans-rdc2",
+    "category": "plans",
+    "original": "RDC2.png",
+    "src": "/media/plans-rdc2.png",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "id": "exterieurs-v1day",
+    "category": "exterieurs",
+    "original": "v1day.png",
+    "src": "/media/exterieurs-v1day.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "exterieurs-v1night",
+    "category": "exterieurs",
+    "original": "V1night.png",
+    "src": "/media/exterieurs-v1night.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "exterieurs-v2day",
+    "category": "exterieurs",
+    "original": "v2day.png",
+    "src": "/media/exterieurs-v2day.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "exterieurs-v2night",
+    "category": "exterieurs",
+    "original": "v2night.png",
+    "src": "/media/exterieurs-v2night.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-bathroom-1-v1",
+    "category": "etage",
+    "original": "BATHROOM 1 V1.png",
+    "src": "/media/etage-bathroom-1-v1.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-bathroom-2-v1",
+    "category": "etage",
+    "original": "BATHROOM 2 V1.png",
+    "src": "/media/etage-bathroom-2-v1.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-bedroom-1-v1",
+    "category": "etage",
+    "original": "BEDROOM 1 V1.png",
+    "src": "/media/etage-bedroom-1-v1.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-bedroom-1-v2-2",
+    "category": "etage",
+    "original": "BEDROOM 1 V2 (2).png",
+    "src": "/media/etage-bedroom-1-v2-2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-bedroom-2-v1-2",
+    "category": "etage",
+    "original": "BEDROOM 2 V1 (2).png",
+    "src": "/media/etage-bedroom-2-v1-2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-bedroom-3-v1-2",
+    "category": "etage",
+    "original": "BEDROOM 3 V1 (2).png",
+    "src": "/media/etage-bedroom-3-v1-2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-bedroom-3-v2",
+    "category": "etage",
+    "original": "BEDROOM 3 V2.png",
+    "src": "/media/etage-bedroom-3-v2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-bedroom-4-v2-2",
+    "category": "etage",
+    "original": "BEDROOM 4 V2 (2).png",
+    "src": "/media/etage-bedroom-4-v2-2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-bedroom-4-v3-2",
+    "category": "etage",
+    "original": "BEDROOM 4 V3 (2).png",
+    "src": "/media/etage-bedroom-4-v3-2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-dressingroom-1-v1-2",
+    "category": "etage",
+    "original": "DRESSINGROOM 1 V1 (2).png",
+    "src": "/media/etage-dressingroom-1-v1-2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-hall-v1-2",
+    "category": "etage",
+    "original": "HALL V1 (2).png",
+    "src": "/media/etage-hall-v1-2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-hall-v2",
+    "category": "etage",
+    "original": "HALL V2.png",
+    "src": "/media/etage-hall-v2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-stairs-v1-2",
+    "category": "etage",
+    "original": "STAIRS V1 (2).png",
+    "src": "/media/etage-stairs-v1-2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "etage-terrace-1-v1",
+    "category": "etage",
+    "original": "TERRACE 1 V1.png",
+    "src": "/media/etage-terrace-1-v1.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-bathroom-1-v1",
+    "category": "rdc",
+    "original": "BATHROOM 1 V1.png",
+    "src": "/media/rdc-bathroom-1-v1.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-bedroom-1v1",
+    "category": "rdc",
+    "original": "BEDROOM 1V1.png",
+    "src": "/media/rdc-bedroom-1v1.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-hall-1-v1",
+    "category": "rdc",
+    "original": "HALL 1 V1.png",
+    "src": "/media/rdc-hall-1-v1.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-hall-1-v2",
+    "category": "rdc",
+    "original": "HALL 1 V2.png",
+    "src": "/media/rdc-hall-1-v2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-hall-1-v3",
+    "category": "rdc",
+    "original": "HALL 1 V3.png",
+    "src": "/media/rdc-hall-1-v3.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-kitchen-1-v1",
+    "category": "rdc",
+    "original": "KITCHEN 1 V1.png",
+    "src": "/media/rdc-kitchen-1-v1.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-kitchen-1-v2",
+    "category": "rdc",
+    "original": "KITCHEN 1 V2.png",
+    "src": "/media/rdc-kitchen-1-v2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-kitchen-1-v3",
+    "category": "rdc",
+    "original": "KITCHEN 1 V3.png",
+    "src": "/media/rdc-kitchen-1-v3.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-salon-1-v1",
+    "category": "rdc",
+    "original": "SALON 1 V1.png",
+    "src": "/media/rdc-salon-1-v1.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-salon-1-v2",
+    "category": "rdc",
+    "original": "SALON 1 V2.png",
+    "src": "/media/rdc-salon-1-v2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-salon-2-v1",
+    "category": "rdc",
+    "original": "SALON 2 V1.png",
+    "src": "/media/rdc-salon-2-v1.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-salon-2-v2",
+    "category": "rdc",
+    "original": "SALON 2 V2.png",
+    "src": "/media/rdc-salon-2-v2.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-salon-2-v3",
+    "category": "rdc",
+    "original": "SALON 2 V3.png",
+    "src": "/media/rdc-salon-2-v3.png",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "id": "rdc-stairs-1-v1",
+    "category": "rdc",
+    "original": "STAIRS 1 V1.png",
+    "src": "/media/rdc-stairs-1-v1.png",
+    "width": 1672,
+    "height": 941
+  }
+]
